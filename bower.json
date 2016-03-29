@@ -1,0 +1,17 @@
+{
+  "lib": {
+    "name": "bower-rails generated lib assets",
+    "dependencies": {}
+  },
+  "vendor": {
+    "name": "bower-rails generated vendor assets",
+    "dependencies": {
+      "angular": "1.5.3",
+      "angular-route": "1.2.20",
+      "ng-file-upload": "",
+      "moment": "2.0.0",
+      "angular-bootstrap": "",
+      "angular-animate": "latest"
+    }
+  }
+}
